@@ -92,6 +92,10 @@ The following links provide information on how to get involved in the community:
 
 Please refer to the [CONTRIBUTING guide](CONTRIBUTING.md).
 
+## Security Scanning
+
+Kubeflow Trainer uses the Trivy GitHub Action in CI to scan container images and dependencies for known vulnerabilities.
+
 ## Changelog
 
 Please refer to the [CHANGELOG](CHANGELOG.md).
